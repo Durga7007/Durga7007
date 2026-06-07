@@ -1,117 +1,68 @@
-<h1 align="center">Hi 👋, I'm Durgasree</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI & ML Engineer</h3>
+<div align="center">
+
+# Hi, I'm Durgasree 👋
+
+### Full Stack Developer • AI & Machine Learning Engineer
+
+*Building scalable web applications and intelligent AI solutions.*
+
+</div>
+
+---
+
+## About Me
+
+- 💼 Full Stack Web Developer with a passion for building end-to-end applications.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌱 Continuously learning modern technologies and improving my skills.
+- 🚀 Enjoy solving real-world problems through software.
+
+---
+
+## Tech Stack
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/durgasree-avvaru-406934341/
+- 📧 Email: sree70075@gmail.com
+
+---
+
+><div align="center">
+
+<h2>Quote</h2>
+
+<h3> <b>❝ Dream until it's your reality. ❞</b> </h3>
+
+<br>
 
 <p align="center">
-Passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
+<i>Thank you for visiting my GitHub profile. Have a great day! </i>
 </p>
 
----
-
-## 🌟 About Me
-
-- 💻 Full Stack Web Developer
-- 🤖 AI & Machine Learning Engineer
-- 🌱 Currently learning **Deep Learning, Generative AI & Cloud**
-- 👨‍💻 I enjoy building real-world projects
-- 📫 Reach me: **your-email@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Durga7007">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Durga7007&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Durga7007&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durga7007&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Durga7007&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Durga7007&label=Profile%20Views&color=blue&style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-⭐ Scam Radar
-
-⭐ GruhaSvaadh – Home Services System
-
-⭐ Portfolio Website
-
-⭐ AI & Machine Learning Projects
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+</div>
