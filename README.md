@@ -57,7 +57,7 @@
 
 <h2>Quote</h2>
 
-<h3> <b>❝ Dream until it's your reality. ❞</b> </h3>
+<h3> <b>❝ If they can then why can't I ❞</b> </h3>
 
 <br>
 
